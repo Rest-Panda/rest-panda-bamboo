@@ -1,1 +1,0 @@
-BAMBU project creator/generator
