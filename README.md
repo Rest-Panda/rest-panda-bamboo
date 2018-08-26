@@ -2,6 +2,7 @@
 Banbu is a REST Panda project extensions support
 
 ## REST Panda extension (BAMBU)
+```conf
 bambu {
     # BAMBU Name
     name = "example",
@@ -63,3 +64,4 @@ bambu {
 
         }
     ]}
+```
