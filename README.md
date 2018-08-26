@@ -1,7 +1,7 @@
 # rest-panda-bambu
 Banbu is a REST Panda project extensions support
 
-# REST Panda extension (BAMBU)
+## REST Panda extension (BAMBU)
 bambu {
     # BAMBU Name
     name = "example",
@@ -62,5 +62,4 @@ bambu {
             description = "Deleta all example"
 
         }
-    ]
-}
+    ]}
