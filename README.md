@@ -1,7 +1,7 @@
-# rest-panda-bambu
+# rest-panda-bamboo
 Banbu is a REST Panda project extensions support
 
-## REST Panda extension (BAMBU)
+## REST Panda extension (BAMBOO)
 ```conf
 bambu {
     # BAMBU Name
